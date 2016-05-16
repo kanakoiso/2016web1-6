@@ -41,6 +41,7 @@ caption{
 }
 th,td{
    border: 1px solid lightcoral;
+    border=collapse: collapse;
 }
 th{
    border: 1px solid lightcoral;
