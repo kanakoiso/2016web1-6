@@ -15,8 +15,8 @@ caption{
    padding: 5px;
 }
 
-#price{
-   background-color: lightyellow;
+#ingredient{
+   border: 2px solid lightcoral;
 }
 th{
    border: 1px solid lightcoral;
@@ -29,6 +29,11 @@ td{
    padding: 5px;
    width: 80px;
    text-align: right;
+}
+
+   
+#price{
+   background-color: lightyellow;
 }
 thead th, tfoot th{
    background-color: white;
